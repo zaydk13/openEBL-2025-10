@@ -38,6 +38,7 @@ The submission involves several steps. First, you need to create your design(s) 
 ## Submission via GitHub
  - [Watch this video for a demonstration](https://kaltura.clemson.edu/media/t/1_iwysnxub)
  - Create an account on GitHub
+ - Fork a copy of the SiEPIC-Tools GitHub repository: [https://github.com/SiEPIC/SiEPIC-Tools](https://github.com/SiEPIC/SiEPIC-Tools/fork). Return here.
  - Fork a copy of this GitHub repository into your own account:  <a href="../../fork">Create a new fork</a>.
  - Turn on the GitHub Actions on your forked repository: <a href="../../actions">Actions</a> (In your repository's page on GitHub, click on Actions in the top-menu bar, and Enable the workflows).
  - [Optional] Install GitHub Desktop (or git) on your computer, and Clone a local copy: <a href="x-github-client://openRepo/https://github.com/SiEPIC/openEBL-2025-02">Open with GitHub Desktop</a>
@@ -90,5 +91,5 @@ Will be added here.
 
 Click on the following link to download the EBeam.oas merged layout file:
 <!-- start-link -->
-https://github.com/SiEPIC/openEBL-2025-10/actions/runs/18117089318/artifacts/4138962437
+https://github.com/SiEPIC/openEBL-2025-10/actions/runs/18425642256/artifacts/4243670358
 <!-- end-link -->
